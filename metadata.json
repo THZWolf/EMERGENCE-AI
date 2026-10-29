@@ -1,0 +1,8 @@
+{
+  "name": "Emergence AI",
+  "description": "Multi-generational evolutionary AI system that solves complex problems through agent cooperation, external knowledge integration, and testing sandbox simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
